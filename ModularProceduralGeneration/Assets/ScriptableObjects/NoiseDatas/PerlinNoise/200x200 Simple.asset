@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c6cc04419800334c9d9200f8306d24b, type: 3}
+  m_Name: 200x200 Simple
+  m_EditorClassIdentifier: 
+  mapHeight: 200
+  mapWidth: 200
+  noiseScale: 72.2
+  lacunarity: 0
+  persistance: 0.5
+  numberOfOctaves: 5
+  offset: {x: 0, y: 0}
+  seed: 30
+  texurePreview: {fileID: 0}
+  autoUpdate: 1

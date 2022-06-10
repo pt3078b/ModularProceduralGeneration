@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c6cc04419800334c9d9200f8306d24b, type: 3}
+  m_Name: 100x100 SlideTest
+  m_EditorClassIdentifier: 
+  mapHeight: 100
+  mapWidth: 100
+  noiseScale: 25
+  lacunarity: 2
+  persistance: 1
+  numberOfOctaves: 1
+  offset: {x: 0, y: 0}
+  seed: 19
+  texurePreview: {fileID: 0}
+  autoUpdate: 1
